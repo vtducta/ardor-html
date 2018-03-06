@@ -1,0 +1,59 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 06 Mar 2018 11:05:31 at https://ardor-profile.herokuapp.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ardor-profile.herokuapp.com/ -O1 "D:\ardor-html\ardor-html" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:06:44	Error: 	"Not Found" (404) at link https://ardor-profile.herokuapp.com/en/projects/14.html (from https://ardor-profile.herokuapp.com/)
+11:06:44	Error: 	"Not Found" (404) at link https://ardor-profile.herokuapp.com/en/projects/15.html (from https://ardor-profile.herokuapp.com/)
+11:06:44	Error: 	"Not Found" (404) at link https://ardor-profile.herokuapp.com/en/projects/5.html (from https://ardor-profile.herokuapp.com/)
+11:06:44	Error: 	"Not Found" (404) at link https://ardor-profile.herokuapp.com/en/projects/3.html (from https://ardor-profile.herokuapp.com/)
+11:06:44	Error: 	"Not Found" (404) at link https://ardor-profile.herokuapp.com/en/projects/9.html (from https://ardor-profile.herokuapp.com/)
+11:06:44	Error: 	"Not Found" (404) at link https://ardor-profile.herokuapp.com/en/projects/1.html (from https://ardor-profile.herokuapp.com/)
+11:06:44	Error: 	"Not Found" (404) at link https://ardor-profile.herokuapp.com/en/projects/4.html (from https://ardor-profile.herokuapp.com/)
+11:06:44	Error: 	"Not Found" (404) at link https://ardor-profile.herokuapp.com/en/projects/2.html (from https://ardor-profile.herokuapp.com/)
+11:06:44	Error: 	"Not Found" (404) at link https://ardor-profile.herokuapp.com/en/projects/7.html (from https://ardor-profile.herokuapp.com/)
+11:06:44	Error: 	"Not Found" (404) at link https://ardor-profile.herokuapp.com/en/projects/6.html (from https://ardor-profile.herokuapp.com/)
+11:06:44	Error: 	"Not Found" (404) at link https://ardor-profile.herokuapp.com/en/projects/8.html (from https://ardor-profile.herokuapp.com/)
+11:06:44	Error: 	"Not Found" (404) at link https://ardor-profile.herokuapp.com/en/projects/12.html (from https://ardor-profile.herokuapp.com/)
+11:06:44	Warning: 	File not parsed, looks like binary: https://ardor-profile.herokuapp.com/assets/bootstrap/glyphicons-halflings-regular-fe185d11a49676890d47bb783312a0cda5a44c4039214094e7957b4c040ef11c.html
+11:06:44	Warning: 	Warning: store application/octet-stream without scan: D:/ardor-html/ardor-html/ardor-profile.herokuapp.com/assets/bootstrap/glyphicons-halflings-regular-fe185d11a49676890d47bb783312a0cda5a44c4039214094e7957b4c040ef11c.html
+11:06:44	Warning: 	File not parsed, looks like binary: https://ardor-profile.herokuapp.com/assets/bootstrap/glyphicons-halflings-regular-e395044093757d82afcb138957d06a1ea9361bdcf0b442d06a18a8051af57456.html
+11:06:44	Warning: 	Warning: store application/octet-stream without scan: D:/ardor-html/ardor-html/ardor-profile.herokuapp.com/assets/bootstrap/glyphicons-halflings-regular-e395044093757d82afcb138957d06a1ea9361bdcf0b442d06a18a8051af57456.html
+11:06:44	Warning: 	File not parsed, looks like binary: https://ardor-profile.herokuapp.com/assets/font-awesome/fontawesome-webfont-aadc3580d2b64ff5a7e6f1425587db4e8b033efcbf8f5c332ca52a5ed580c87c.html
+11:06:44	Warning: 	Warning: store application/octet-stream without scan: D:/ardor-html/ardor-html/ardor-profile.herokuapp.com/assets/font-awesome/fontawesome-webfont-aadc3580d2b64ff5a7e6f1425587db4e8b033efcbf8f5c332ca52a5ed580c87c.html
+11:06:44	Warning: 	File not parsed, looks like binary: https://ardor-profile.herokuapp.com/assets/font-awesome/fontawesome-webfont-14dcb8f02b3b81c2baab230610c349a94282bbd976693759e9b4a8694d486451.html
+11:06:44	Warning: 	Warning: store application/octet-stream without scan: D:/ardor-html/ardor-html/ardor-profile.herokuapp.com/assets/font-awesome/fontawesome-webfont-14dcb8f02b3b81c2baab230610c349a94282bbd976693759e9b4a8694d486451.html
+11:06:44	Warning: 	File not parsed, looks like binary: https://ardor-profile.herokuapp.com/assets/font-awesome/fontawesome-webfont-14dcb8f02b3b81c2baab230610c349a94282bbd976693759e9b4a8694d486451f77b.html?v=3.2.1
+11:06:44	Warning: 	Warning: store application/octet-stream without scan: D:/ardor-html/ardor-html/ardor-profile.herokuapp.com/assets/font-awesome/fontawesome-webfont-14dcb8f02b3b81c2baab230610c349a94282bbd976693759e9b4a8694d486451f77bf77b.html
+11:06:44	Warning: 	File not parsed, looks like binary: https://ardor-profile.herokuapp.com/assets/OpenSans/OpenSans-Regular-webfont-3098c00be7e6765d5f86bd98ba72dcdccf713d2087b2773e26954de4403bd7d5.html
+11:06:44	Warning: 	Warning: store application/octet-stream without scan: D:/ardor-html/ardor-html/ardor-profile.herokuapp.com/assets/OpenSans/OpenSans-Regular-webfont-3098c00be7e6765d5f86bd98ba72dcdccf713d2087b2773e26954de4403bd7d5.html
+11:06:44	Warning: 	File not parsed, looks like binary: https://ardor-profile.herokuapp.com/assets/OpenSans/OpenSans-Italic-webfont-6aea384f2a661771f3d08487bedd4eaf4dd6b0bd0787e9f64d6e0357ba200ba9.html
+11:06:44	Warning: 	Warning: store application/octet-stream without scan: D:/ardor-html/ardor-html/ardor-profile.herokuapp.com/assets/OpenSans/OpenSans-Italic-webfont-6aea384f2a661771f3d08487bedd4eaf4dd6b0bd0787e9f64d6e0357ba200ba9.html
+11:06:44	Warning: 	File not parsed, looks like binary: https://ardor-profile.herokuapp.com/assets/OpenSans/OpenSans-Light-webfont-488440124630f7b1458de92080069597db6a224f2d787c362d7176a5c884cc86.html
+11:06:44	Warning: 	Warning: store application/octet-stream without scan: D:/ardor-html/ardor-html/ardor-profile.herokuapp.com/assets/OpenSans/OpenSans-Light-webfont-488440124630f7b1458de92080069597db6a224f2d787c362d7176a5c884cc86.html
+11:06:44	Warning: 	File not parsed, looks like binary: https://ardor-profile.herokuapp.com/assets/OpenSans/OpenSans-LightItalic-webfont-2727230d370cab814d0cd97a9b0a7caf49bdfb3577472179de7aeaa8e613f90a.html
+11:06:44	Warning: 	Warning: store application/octet-stream without scan: D:/ardor-html/ardor-html/ardor-profile.herokuapp.com/assets/OpenSans/OpenSans-LightItalic-webfont-2727230d370cab814d0cd97a9b0a7caf49bdfb3577472179de7aeaa8e613f90a.html
+11:06:44	Warning: 	File not parsed, looks like binary: https://ardor-profile.herokuapp.com/assets/OpenSans/OpenSans-Semibold-webfont-ec259315a6529dee2b4cf519c29393321f3233cfd45a74789524b788b5eb76b0.html
+11:06:45	Warning: 	Warning: store application/octet-stream without scan: D:/ardor-html/ardor-html/ardor-profile.herokuapp.com/assets/OpenSans/OpenSans-Semibold-webfont-ec259315a6529dee2b4cf519c29393321f3233cfd45a74789524b788b5eb76b0.html
+11:06:45	Warning: 	File not parsed, looks like binary: https://ardor-profile.herokuapp.com/assets/OpenSans/OpenSans-SemiboldItalic-webfont-4f8d5385a9bc8ace0afc78d1e4c6683c3c50a98dedf0424958016fae53718927.html
+11:06:45	Warning: 	Warning: store application/octet-stream without scan: D:/ardor-html/ardor-html/ardor-profile.herokuapp.com/assets/OpenSans/OpenSans-SemiboldItalic-webfont-4f8d5385a9bc8ace0afc78d1e4c6683c3c50a98dedf0424958016fae53718927.html
+11:06:45	Warning: 	File not parsed, looks like binary: https://ardor-profile.herokuapp.com/assets/OpenSans/OpenSans-Bold-webfont-d6e15df40b5fa9f51e327f937d33656ec2e9729ab6bba7e6f45827b49187afd0.html
+11:06:45	Warning: 	Warning: store application/octet-stream without scan: D:/ardor-html/ardor-html/ardor-profile.herokuapp.com/assets/OpenSans/OpenSans-Bold-webfont-d6e15df40b5fa9f51e327f937d33656ec2e9729ab6bba7e6f45827b49187afd0.html
+11:06:45	Warning: 	File not parsed, looks like binary: https://ardor-profile.herokuapp.com/assets/OpenSans/OpenSans-BoldItalic-webfont-4e6c06a407f11995a6cbe88c0cf43520b79468e22fdf67ed14a92824657ea354.html
+11:06:45	Warning: 	Warning: store application/octet-stream without scan: D:/ardor-html/ardor-html/ardor-profile.herokuapp.com/assets/OpenSans/OpenSans-BoldItalic-webfont-4e6c06a407f11995a6cbe88c0cf43520b79468e22fdf67ed14a92824657ea354.html
+11:06:45	Warning: 	File not parsed, looks like binary: https://ardor-profile.herokuapp.com/assets/OpenSans/OpenSans-ExtraBold-webfont-13668bd25f616ff75235f5b36736d9ff17a674e7c4c0644e275d7a17a18d2575.html
+11:06:45	Warning: 	Warning: store application/octet-stream without scan: D:/ardor-html/ardor-html/ardor-profile.herokuapp.com/assets/OpenSans/OpenSans-ExtraBold-webfont-13668bd25f616ff75235f5b36736d9ff17a674e7c4c0644e275d7a17a18d2575.html
+11:06:45	Warning: 	File not parsed, looks like binary: https://ardor-profile.herokuapp.com/assets/OpenSans/OpenSans-ExtraBoldItalic-webfont-df66a59fdd4424fe06dc1f0a7ba7a1ba3cb0e206f5d29784d9c3637e8c0d6d20.html
+11:06:45	Warning: 	Warning: store application/octet-stream without scan: D:/ardor-html/ardor-html/ardor-profile.herokuapp.com/assets/OpenSans/OpenSans-ExtraBoldItalic-webfont-df66a59fdd4424fe06dc1f0a7ba7a1ba3cb0e206f5d29784d9c3637e8c0d6d20.html
+11:06:45	Warning: 	File not parsed, looks like binary: https://ardor-profile.herokuapp.com/assets/Roboto/Roboto-Regular-dcbb6aa0748ab4093f0a60f77c70592a469ca501a6bc6970dcb3e28e5b451b15.html
+11:06:45	Warning: 	Warning: store application/octet-stream without scan: D:/ardor-html/ardor-html/ardor-profile.herokuapp.com/assets/Roboto/Roboto-Regular-dcbb6aa0748ab4093f0a60f77c70592a469ca501a6bc6970dcb3e28e5b451b15.html
+11:06:45	Warning: 	File not parsed, looks like binary: https://ardor-profile.herokuapp.com/assets/Roboto/Roboto-Bold-1ae76d96d6e9d7e1eecccac212ef04e99d6b6aaf725e28e22334c5a0c567985e.html
+11:06:45	Warning: 	Warning: store application/octet-stream without scan: D:/ardor-html/ardor-html/ardor-profile.herokuapp.com/assets/Roboto/Roboto-Bold-1ae76d96d6e9d7e1eecccac212ef04e99d6b6aaf725e28e22334c5a0c567985e.html
+11:06:45	Error: 	"Not Found" (404) at link https://ardor-profile.herokuapp.com/img/plus.html (from https://ardor-profile.herokuapp.com/assets/frontend.css)
+11:06:45	Error: 	"Not Found" (404) at link https://ardor-profile.herokuapp.com/img/minus.html (from https://ardor-profile.herokuapp.com/assets/frontend.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 14 seconds : 155 links scanned, 140 files written (12879378 bytes overall) [12940859 bytes received at 174876 bytes/sec], 31.0 requests per connection
+(14 errors, 34 warnings, 0 messages)
